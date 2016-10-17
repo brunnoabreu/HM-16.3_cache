@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <code-assistance-data xmlns="http://www.netbeans.org/ns/make-project-private/1">
+        <code-model-enabled>true</code-model-enabled>
+    </code-assistance-data>
+    <data xmlns="http://www.netbeans.org/ns/make-project-private/1">
+        <activeConfTypeElem>0</activeConfTypeElem>
+        <activeConfIndexElem>0</activeConfIndexElem>
+    </data>
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/brunno/HM-16.3_cache/source/Lib/TLibDecoder/TDecEntropy.cpp</file>
+            <file>file:/home/brunno/HM-16.3_cache/source/Lib/TLibEncoder/TEncCacheSim.cpp</file>
+            <file>file:/home/brunno/HM-16.3_cache/source/Lib/TLibEncoder/TEncCacheSim.h</file>
+            <file>file:/home/brunno/HM-16.3_cache/source/App/TAppEncoder/TAppEncCfg.h</file>
+            <file>file:/home/brunno/HM-16.3_cache/source/App/TAppEncoder/encmain.cpp</file>
+            <file>file:/home/brunno/HM-16.3_cache/source/Lib/TAppCommon/program_options_lite.h</file>
+            <file>file:/home/brunno/HM-16.3_cache/source/Lib/TLibEncoder/TEncSearch.h</file>
+            <file>file:/home/brunno/HM-16.3_cache/source/App/TAppEncoder/TAppEncCfg.cpp</file>
+            <file>file:/home/brunno/HM-16.3_cache/source/Lib/TLibEncoder/TEncSearch.cpp</file>
+        </group>
+    </open-files>
+</project-private>
